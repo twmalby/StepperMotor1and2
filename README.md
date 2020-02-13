@@ -1,2 +1,2 @@
-![flaskr app](StepperMotor1and2/connection.gif)
+(StepperMotor1and2/connection.gif)
 
